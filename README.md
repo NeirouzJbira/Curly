@@ -1,5 +1,5 @@
 # Curly 
-This project can be viewed [here](https://NeioruzJbira.github.io/Curly/).
+This project can be viewed [here](https://neirouzjbira.github.io/Curly/).
 
 Landing page for natural hair e-commerce store.
 ## Languages & Frameworks:
